@@ -8,6 +8,8 @@
 
 ## 課程內容：
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgau/khpy_pillow_intro/)
+
 說明如何使用 pillow 來做簡單的圖形處理。
 
 ### 1. 文件導覽
