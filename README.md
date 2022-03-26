@@ -2,9 +2,9 @@
 
 ## 關於唯客學院：
 
-* [唯客學院網址](https://www.victorgau.com)
-* [唯客學院部落格](https://victorgau.com/blog/)
-* [高雄Python學院粉絲團](https://www.facebook.com/KHPYAcademy/)
+* [唯客學院網址](http://www.vcdemy.com)
+* [唯客學院粉絲團](https://www.facebook.com/vcdemy/)
+* [唯客學院線上課程](https://khpy.teachable.com)
 
 ## 課程內容：
 
@@ -19,11 +19,22 @@
 ### 2. 實作引導
 
 * pillow 簡介
-* 讀取圖片
-* 旋轉圖片
-* 縮放圖片
-* 裁剪圖片
-* 合併圖片
+* 讀取圖片 (open)
+* 檢視圖片屬性
+* 影像旋轉
+  * 翻轉圖片
+  * 轉九十度
+  * 自由旋轉 (rotate)
+* 縮放圖片 (resize)
+* 製作縮圖 (thumbnail)
+* 裁剪圖片 (crop)
+* 黏貼圖片 (paste)
+* 分割及合併圖層 (split & merge)
+* 轉換圖形模式 (convert)
+* 儲存圖片 (save)
+* ImageDraw繪圖
+* ImageFilter濾鏡
+* 圖片去背
 
 ### 3. 自我挑戰
 
