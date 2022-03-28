@@ -21,10 +21,10 @@
 * pillow 簡介
 * 讀取圖片 (open)
 * 檢視圖片屬性
-* 影像旋轉
+* 旋轉圖片 (rotate, transpose)
   * 翻轉圖片
   * 轉九十度
-  * 自由旋轉 (rotate)
+  * 自由旋轉
 * 縮放圖片 (resize)
 * 製作縮圖 (thumbnail)
 * 裁剪圖片 (crop)
